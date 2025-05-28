@@ -1,8 +1,7 @@
-## Hi there 👋
-I’m a student from Carnegie Mellon University :)
-Interested in how to make software more secure! 🔐💻
+## Hi there 👋 It's Wenyun Wang! 
+🎓 First-year graduate student from Carnegie Mellon University, majoring in information security :)
 
-Software Security | Cyber Security | LLM
+🩷 Interested in how to make software more secure! 🔐💻
 
 My website: [wenyunw.me](https://wenyunw.me)
 
